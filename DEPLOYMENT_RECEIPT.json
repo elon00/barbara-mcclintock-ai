@@ -1,0 +1,14 @@
+{
+  "project": "barbara-mcclintock-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "MCCBPb3sbaDX1LmhLBjjDNy5gELrpb1FJ7a7KdcmAkY",
+  "vault_account": "9rBaxhJcqASap1K8d3WNFnqfDDKghvKFMSuBBUch9gTn",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4azBoHHbv93nucry12xygVTdYf7v71wEWiBMiEjK5xyLaA97YrnhUVFtGNMEaJmxNYqDAD9udeVYy3gQBUwPpbY2",
+  "account_tx": "4sGS314QNKox2Cvcngs8cEZVPCwwhJwrLJXdXbkvH2jZRQP4jcyp9Xzkbk3qXdNnYfx2s5r5xp9UY5vLfXmSgqxd",
+  "mint_tx": "4K3jXWxW81doedUT4i9uEeS2uX9So4cH3kyMAuMfUsqWHt3xgZCFFCPdT42YmGXrSNEPWWFLiwQLHieA9WVBE5h3",
+  "solana_explorer_mint": "https://explorer.solana.com/address/MCCBPb3sbaDX1LmhLBjjDNy5gELrpb1FJ7a7KdcmAkY?cluster=devnet",
+  "timestamp": "2026-10-26 16:21:24 UTC"
+}
